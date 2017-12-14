@@ -1,0 +1,17 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est AE32-5242
+
+ R‚pertoire de C:\TestGit
+
+14/12/2017  15:39    <DIR>          .
+14/12/2017  15:39    <DIR>          ..
+06/12/2017  15:51                 0 edureka6.txt
+14/12/2017  15:20                 8 exkhawla.txt
+06/12/2017  14:51                 7 it.txt
+14/12/2017  15:39                 0 itss.txt
+06/12/2017  15:04               137 Jenkinsfile
+06/12/2017  14:45                 5 khawla1.txt
+14/12/2017  15:37               651 khawlaitss.html
+06/12/2017  14:50                 7 Test.txt
+               8 fichier(s)              815 octets
+               2 R‚p(s)  294ÿ063ÿ468ÿ544 octets libres
